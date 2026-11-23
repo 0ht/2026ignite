@@ -1,0 +1,7 @@
+node_modules/
+.cache/
+site/**/*.md
+site/public/
+site/.vitepress/cache/
+site/.vitepress/dist/
+site/.vitepress/nav.json

@@ -1,0 +1,20 @@
+{
+  "name": "2026ignite",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test",
+    "refresh:sessions": "node scripts/refresh-catalog.mjs",
+    "build:content": "node scripts/build.mjs",
+    "build": "npm run build:content && vitepress build site && node scripts/check-site.mjs",
+    "dev": "npm run build:content && vitepress dev site",
+    "preview": "vitepress preview site"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3",
+    "vitepress": "^1.6.4"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "event": "Microsoft Ignite 2026",
+  "year": 2026,
+  "site_base": "/2026ignite/",
+  "site_url": "https://0ht.github.io/2026ignite/",
+  "repository": "https://github.com/0ht/2026ignite",
+  "skill": "ignite-2026",
+  "dates": {
+    "start": "2026-11-17",
+    "end": "2026-11-20"
+  },
+  "location": "San Francisco・オンライン",
+  "timezone": "America/Los_Angeles",
+  "last_verified": "2026-11-23",
+  "scope": "公式 Book of News の主要発表と、公式の編集済み講演録で確認したオープニング基調講演、Online・Technical Decision Maker 条件の公式セッションカタログ一覧を収録。",
+  "urls": {
+    "homepage": "https://ignite.microsoft.com/en-US/home",
+    "book_of_news": "https://news.microsoft.com/events/ignite/2026/book-of-news/",
+    "keynote": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/"
+  }
+}

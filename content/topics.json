@@ -1,0 +1,11 @@
+[
+  { "slug": "copilot", "name": "Microsoft Copilot・業務アプリ" },
+  { "slug": "iq", "name": "Microsoft IQ・企業コンテキスト" },
+  { "slug": "foundry", "name": "Microsoft Foundry・AI モデル" },
+  { "slug": "github", "name": "GitHub・開発ツール" },
+  { "slug": "azure", "name": "Azure・クラウド基盤" },
+  { "slug": "data", "name": "データベース・Microsoft Fabric" },
+  { "slug": "security", "name": "セキュリティ・エージェント管理" },
+  { "slug": "windows", "name": "Windows・エンドポイント" },
+  { "slug": "sessions", "name": "セッションカタログ" }
+]

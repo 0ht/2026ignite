@@ -1,0 +1,173 @@
+# セッション一覧
+
+- [BRK101: Microsoft Ignite 101: Navigate, Connect & Maximize Your Experience](sessions/brk101.md) Microsoft Ignite の公式アプリ、会場・配信コンテンツの使い分け、学習・認定資格・交流の機会を、登壇者によるアプリのデモを交えて案内します。
+- [BRK234: Agentify your business processes-the next era of business applications](sessions/brk234.md) Dynamics 365 と Copilot を使う営業、Copilot Studio での業務プロセス構築、既存コンタクトセンターへの AI 導入を紹介します。
+- [BRK236: Agents in Copilot: help every user get more done](sessions/brk236.md) Agent Builder などによるエージェントの作成方法と、利用者への定着、信頼、ガバナンスの考え方を整理します。
+- [BRK237: Plugins for Copilot: build once, govern once, use everywhere](sessions/brk237.md) ツール、スキル、エージェントをプラグインとしてまとめ、作成から公開、評価、企業内管理まで共通化する方法を示します。
+- [BRK238: Frontier tuning: Optimize AI agents for real-world business outcomes](sessions/brk238.md) 業務データに基づく評価と学習ループを通じて、モデルやツール、エージェントの品質とコストを改善する Frontier Tuning を紹介します。
+- [BRK239: Employee Self-Service to Enterprise Scale: Managing Intelligent Agents](sessions/brk239.md) 従業員向け IT・人事支援エージェントを例に、連携、品質評価、分析、ライフサイクル管理の実践を説明します。
+- [BRK250: Govern AI everywhere: From open frameworks to enterprise control](sessions/brk250.md) 異なるフレームワークや環境のエージェントに共通の管理を適用し、Foundry の企業向け統制につなぐ考え方を説明します。
+- [BRK253: Operate AI at enterprise scale with Microsoft Foundry](sessions/brk253.md) Foundry を中心に ID、ポリシー、AI Gateway、コスト、観測性をまとめ、Agent 365 と連携して AI を運用する方法を整理します。
+- [BRK255: Build private, responsive on-device AI agents with Foundry](sessions/brk255.md) Foundry Local を使い、端末上で動く AI アプリやエージェントの構築、推論、性能最適化を紹介します。
+- [BRK256: Video AI at scale with Microsoft Foundry and fal](sessions/brk256.md) Foundry と fal の連携を通じ、画像・動画生成モデルの選択からクリエイティブ制作、本番利用までを紹介します。
+- [BRK258: Agentic automation: How Copilot Studio blends workflows and agents](sessions/brk258.md) Copilot Studio で決定的なワークフローと柔軟な AI エージェントを組み合わせ、業務自動化の信頼性を高める方法を示します。
+- [BRK259: See how the Microsoft Copilot harness powers Copilot Studio](sessions/brk259.md) Copilot Studio の Copilot SDK ベースのハーネスを取り上げ、スキル、フック、複数エージェント、ワークフローの関係を説明します。
+- [BRK260: The next evolution of AI FinOps: From cost to value](sessions/brk260.md) AI の費用を利用者・モデル・サービス単位で可視化し、予算管理と事業価値の評価を組み合わせる FinOps を解説します。
+- [BRK261: From tool to teammate: Persistent agents for shared processes in Copilot Studio](sessions/brk261.md) アカウント、トリガー、記憶、スキルを備えた継続的なエージェントで、繰り返し発生する業務を支援する方法を示します。
+- [BRK262: Scale agents, not risk: Governance and FinOps for the enterprise](sessions/brk262.md) Copilot Studio と管理センターを通じ、エージェントのセキュリティ、利用状況、費用を組織規模で管理する方法を扱います。
+- [BRK263: Master AI spend management with Agent 365: Govern your AI budget](sessions/brk263.md) Agent 365 と Microsoft 365 管理センターを使い、AI 支出の予測、ポリシー設定、使用量監視、価値測定を行う方法を紹介します。
+- [BRK264: Pick the right harness to build your agents with using Copilot Studio](sessions/brk264.md) 業務の複雑さ、ユーザー体験、コストに応じて Copilot Studio のエージェント用ハーネスを選ぶ考え方を示します。
+- [BRK265: Apps and agents: Business process transformation in Copilot Studio](sessions/brk265.md) Copilot Studio のアプリ、ワークフロー、エージェントを共通のセキュリティと管理基盤の上で組み合わせる方法を紹介します。
+- [BRK266: Maximize your Copilot Investment: Scale with flexibility and control](sessions/brk266.md) Copilot のモデル品質と費用のバランス、利用量の可視化、予算配分を通じて AI 投資の価値を高める方法を説明します。
+- [BRK267: What's new in Copilot Studio](sessions/brk267.md) Copilot Studio のアプリ・ワークフロー・エージェント作成、ハーネス、ガバナンス、費用管理の更新を紹介します。
+- [BRK268: Build as a team with GitHub Copilot tailored to your workflow](sessions/brk268.md) チームのスキルや指示を GitHub Copilot に組み込み、ツール連携、テスト、レビューを伴う開発フローを整える方法を扱います。
+- [BRK270: Ship more software with parallel agents in the GitHub Copilot app](sessions/brk270.md) GitHub Copilot アプリで複数エージェントへ並列に作業を委任し、変更の検証、PR、Agent merge、自動化につなげます。
+- [BRK272: From 2 days to 45 minutes: Bradesco’s agentic AI transformation](sessions/brk272.md) Bradesco の事例を通じ、GitHub Copilot と Azure AI による既存サービスの評価、計画、モダナイゼーションを紹介します。
+- [BRK273: Bring GitHub Copilot where you work](sessions/brk273.md) GitHub Copilot を IDE、ターミナル、Slack、Teams、モバイルにまたがって活用する考え方を紹介。スライドでは Copilot で作る映画ログアプリのデモが示されています。
+- [BRK274: Hand off the task or take the keyboard in VS Code](sessions/brk274.md) VS Code のエディターと Agents ウィンドウを行き来しながら、エージェントへの委任、差分確認、編集、デバッグを行います。
+- [BRK275: What should you build when you can build anything?](sessions/brk275.md) ゲームや学習ツールのデモを通じて、AI 支援開発の創造的な使い方と、開発者が学び続ける重要性を紹介します。
+- [BRK277: Hack the harness: Copilot SDK agents from prototype to production](sessions/brk277.md) Copilot SDK を使ったエージェント構築を、隔離実行、ワーカーへの委任、並列処理、本番向けの構成へ発展させます。
+- [BRK278: Inside Copilot code review: From context to approval](sessions/brk278.md) Copilot コードレビューがコンテキストとチームの規約を取り込み、複数のレビュー強度や評価を組み合わせる仕組みを説明します。
+- [BRK279: Building a model for software development from the ground up](sessions/brk279.md) コーディング向け MAI モデルの設計、学習、品質・遅延・費用の評価と、製品利用からの改善を紹介します。
+- [BRK280: Designing an agent harness that orchestrates models](sessions/brk280.md) Copilot Fusion を例に、タスクごとのモデル選択や複数モデルの協調と、品質・速度・費用のトレードオフを説明します。
+- [BRK281: Securing coding agents and their code](sessions/brk281.md) コーディングエージェントの権限、隔離実行、組織ポリシーと、生成されたコードの安全性を管理する方法を扱います。
+- [BRK282: Always-on agentic security platform for code security](sessions/brk282.md) GitHub Advanced Security を使い、生成コードの検査、既存コードの発見、エージェントによる修正、ルールセットによる統制を開発フローに組み込む。
+- [BRK283: The backlog problem gets worse with AI. Here's how to fix it.](sessions/brk283.md) 増加するセキュリティ backlog に対し、依存関係・自作コード・秘密情報を予防、優先順位付け、修正の順に管理する。
+- [BRK284: Production-ready Microsoft Foundry agents with Azure AI Landing Zones](sessions/brk284.md) Azure AI Landing Zones の設計・参照アーキテクチャと実装例を通じ、Foundry エージェントを PoC から運用へ移す。
+- [BRK286: Secure the CI pipeline: Practical defenses for GitHub Actions](sessions/brk286.md) GitHub Actions のサプライチェーン攻撃を5段階でたどり、checkout、キャッシュ、ポリシー、依存固定、ネットワーク制御を組み合わせる。
+- [BRK288: Visual Studio governance for the agentic era](sessions/brk288.md) Visual Studio の配布・更新、拡張機能、Copilot のモデルとエージェント操作を企業で管理する方法を説明する。
+- [BRK289: GitHub, the agent native engineering system](sessions/brk289.md) GitHub を人とエージェントの協働によってソフトウェアの仕事を完了する基盤として捉え、アプリ、連携、自動化、レビューを実演する。
+- [BRK290: Humans, agents, and a game plan: AI governance with GitHub Enterprise](sessions/brk290.md) GitHub Enterprise の AI ガバナンスを、全社の基本方針、チーム別の権限、クライアント設定、利用状況の観察で組み立てる。
+- [BRK291: GitHub Intelligence: The intelligence layer for the self-improving SDLC](sessions/brk291.md) Copilot Memory、Dreaming、コード検索、Agentic Search を組み合わせ、開発の履歴を次の作業に活かす自己改善の仕組みを紹介する。
+- [BRK292: Getting the most out of GitHub Copilot and Azure DevOps](sessions/brk292.md) Azure Boards、Repos、Pipelines を使い続けながら GitHub Copilot や MCP を連携し、作業項目からコード変更につなげます。
+- [BRK295: Web IQ: The new search engine for agents](sessions/brk295.md) エージェント向け検索としての Web IQ を紹介し、最新の Web 情報を使って回答の根拠を補う考え方を説明します。
+- [BRK296: Work IQ governance and trust: Control the intelligence layer](sessions/brk296.md) Work IQ の組織コンテキストを活用する際に、権限、エージェントの行動、データアクセスを管理する考え方を扱います。
+- [BRK299: Give agents and people the business context to act with Work IQ](sessions/brk299.md) Work IQ が会話や文書に加えて組織の業務知識を扱い、スキルや自動化を通じて人とエージェントを支援する方法を示します。
+- [BRK302: Build personalized AI experiences with Work IQ](sessions/brk302.md) Work IQ とコネクターを使い、Microsoft 365 の文脈やアクセス権に基づいた個別化エージェントを複数の開発環境で構築します。
+- [BRK305: Microsoft IQ: Build trusted AI agents that know your business](sessions/brk305.md) Work IQ、Fabric IQ、Foundry IQ、Web IQ と接続先を組み合わせ、企業の文脈を安全にエージェントへ提供する方法を紹介します。
+- [BRK307: Foundry IQ: Knowledge graphs for better enterprise context](sessions/brk307.md) Foundry IQ のエンティティ・トピックグラフを使い、文書間の関係や全体的な傾向を検索へ取り込む方法を説明します。
+- [BRK309: Optimizing AI agents to meet your goals: Grounding with Web IQ](sessions/brk309.md) Web IQ による根拠付けについて、検索の自動振り分けと品質、鮮度、遅延、費用のバランスを検討します。
+- [BRK311: Web IQ in action: How enterprises build grounded, governed AI agents](sessions/brk311.md) Web IQ の検索範囲、セキュリティ、ガバナンスを説明し、企業が公開 Web を根拠とするエージェントを構築した事例を紹介します。
+- [BRK313: Build with Web IQ: From API call to cited answer](sessions/brk313.md) Web IQ API で最新情報を取得し、引用付き回答を生成する流れと、遅延・トークン・トレースによる改善を説明します。
+- [BRK316: Winning the Race Against Time with Autonomous Protection](sessions/brk316.md) 脆弱性の悪用が速まる状況に対し、自律的な保護と Vulnerability Shielding で防御する構想を紹介します。
+- [BRK317: What the Frontlines Reveal About Modern Security](sessions/brk317.md) 侵害対応の現場から、ID やアカウントへの攻撃と、脅威情報を防御・復旧に生かす方法を共有します。
+- [BRK318: Project Perception: How Agentic Security Works](sessions/brk318.md) Microsoft Perception のレッド・ブルー・グリーンチームのエージェントが、調査や防御で連携する仕組みを紹介します。
+- [BRK319: Find and fix code vulnerabilities faster with Codename MDASH](sessions/brk319.md) Codename MDASH が複数の専門エージェントを使ってコードの脆弱性を発見・検証・優先順位付けする流れを説明します。
+- [BRK320: Agentic Security Unfiltered with Allie Mellen: Hype vs. Reality](sessions/brk320.md) SOC における AI エージェントの活用と、運用変更・信頼・ガードレールの課題をアナリストと Microsoft が議論します。
+- [BRK321: Threat Intelligence reimagined: From signals to protection at AI speed](sessions/brk321.md) 脅威リサーチとセキュリティシグナルを AI による検出・攻撃阻止へつなげる方法を紹介します。
+- [BRK322: Stay ahead of endpoint risk with AI-powered discovery and remediation](sessions/brk322.md) 端末の脆弱性を発見し、リスクに基づく優先付け、パッチ適用、軽減策の検証につなげる方法を説明します。
+- [BRK323: Project Perception Roadmap: New Capabilities, Use Cases & What's Next](sessions/brk323.md) Microsoft Perception のエージェント構成、侵入テスト、SOC 向け自動化、外部連携と今後の方向性を紹介します。
+- [BRK324: The Alert Is Dead. The Blueprint for the Agentic SOC](sessions/brk324.md) アラート中心の運用から、人と AI が役割を分担して攻撃を継続的に阻止する SOC への移行を説明します。
+- [BRK325: Behind the AI models built for security at scale](sessions/brk325.md) セキュリティ特化モデルの学習と評価を、推論品質、遅延、コスト、安全性の観点から解説します。
+- [BRK326: Build secure foundations to scale AI across your organization](sessions/brk326.md) ID、端末、データ、SOC を含むセキュリティ基盤を整え、Zero Trust に基づいて AI を拡大する方法を紹介します。
+- [BRK327: See and reduce exposure across your digital estate](sessions/brk327.md) 脅威情報を資産の露出状況と結び付け、実在する攻撃経路の検証とリスク順の対策に役立てる方法を示します。
+- [BRK328: What’s New in Intune: Trusted device and app foundation for AI](sessions/brk328.md) Intune の端末・アプリ管理、構成のずれの検出、変更結果の確認、復旧を通じた AI 利用の基盤を紹介します。
+- [BRK329: Get your data AI-ready: Discover & mitigate data exposure risks](sessions/brk329.md) Purview で機密データや過剰共有を見つけ、分類、アクセス権の把握、保護策を通じて AI 利用に備える方法を扱います。
+- [BRK330: Protect applications across code, cloud, and runtime](sessions/brk330.md) アプリ、クラウド、実行環境、ネットワークにまたがる攻撃経路を、Defender や Azure の保護機能で検出・阻止します。
+- [BRK331: A Single Policy for Humans and AI Agents? Here’s How to Make It Work](sessions/brk331.md) Entra Conditional Access で人とエージェントのアクセスを扱い、ポリシープランで条件や例外を整理する方法を説明します。
+- [BRK332: Identity Knows What Your SOC Doesn’t: Stop Threats Faster Together](sessions/brk332.md) Entra の ID コンテキストを Defender の SOC 調査に取り込み、ID 管理者とセキュリティ担当者の連携を改善します。
+- [BRK333: How Threat Research Powers Attack Disruption in the AI Era](sessions/brk333.md) 脅威研究とセキュリティグラフのシグナルを、Defender による検出、予防、攻撃の阻止につなげる方法を紹介します。
+- [BRK334: Modern Phishing Doesn't End at the Click](sessions/brk334.md) フィッシング後のセッション承認や認証情報の悪用に着目し、ID、メール、共同作業環境を横断した防御を考えます。
+- [BRK335: How Microsoft got its data ready for Copilot](sessions/brk335.md) Microsoft 自身の Copilot 導入準備を例に、機密データの把握、過剰共有の抑制、アクセス権とガバナンスを整理します。
+- [BRK336: When AI acts, security has to answer: Microsoft Security for AI](sessions/brk336.md) AI アプリとエージェントの登録、動的な権限、データ・ネットワーク保護を通じて AI のライフサイクル全体を守る方法を示します。
+- [BRK337: Prioritize and remediate your riskiest agents with Project Perception](sessions/brk337.md) Perception を使い、変化するエージェントの権限やリスクを可視化し、調査、封じ込め、対策につなげます。
+- [BRK338: Secure your data as you scale your agents with Microsoft Purview](sessions/brk338.md) Purview でエージェントのデータ利用を把握し、機密情報保護、リスク検出、コンプライアンスに対応する方法を紹介します。
+- [BRK339: Local agents are here. Can you find and secure them?](sessions/brk339.md) 利用者の端末上で動くローカルエージェントについて、アクセス先、実際の行動、管理上の可視性を検討します。
+- [BRK340: A Zero Trust approach to securing AI runtime with Microsoft Defender](sessions/brk340.md) Microsoft Defender を使って AI 実行環境に Zero Trust を適用し、プロンプトインジェクションやツール・ID の悪用に備えます。
+- [BRK341: Inside Look at Agent 365: Lessons from Microsoft's Office of the CISO](sessions/brk341.md) Microsoft の CISO 組織が Agent 365 を使い、エージェントの発見、リスク評価、インシデント対応を行う経験を共有します。
+- [BRK342: Secure data and manage AI risk for Microsoft Copilot Chat and Cowork](sessions/brk342.md) Purview の分類、ラベル、DLP、アクセス権管理を使い、Copilot Chat と Cowork のデータを保護する方法を紹介します。
+- [BRK343: AI is changing access. See how Microsoft Entra helps you stay ahead.](sessions/brk343.md) Entra の認証、条件付きアクセス、エージェント ID、動的な権限管理とネットワーク保護の方向性を紹介します。
+- [BRK344: Build, secure and govern agents across platforms with A365 and Entra](sessions/brk344.md) Agent 365 と Entra でエージェントに ID を付与し、権限のライフサイクルやリスクに応じた修復を管理する例を示します。
+- [BRK345: Master Agent Governance with Agent 365](sessions/brk345.md) Agent 365 でエージェントの所有者、権限、ツール利用、ライフサイクルを一元的に管理する実例を紹介します。
+- [BRK346: Protect data and accelerate AI adoption with Microsoft Purview](sessions/brk346.md) Purview の分類、データ保護、AI アプリの管理、調査機能を使い、データセキュリティと AI 導入を両立させます。
+- [BRK347: Microsoft Purview: Scale data protection with sensitivity labels](sessions/brk347.md) Purview の秘密度ラベルを組織全体へ展開する方法、AI 利用時の重要性と運用上の考え方を説明します。
+- [BRK348: Microsoft Purview: From understanding sensitive data to protecting it](sessions/brk348.md) 機密情報の発見と分類からポリシー適用までを結び付け、Purview で実際のデータ保護へ進める方法を示します。
+- [BRK358: Get more Spark for less with Microsoft Fabric](sessions/brk358.md) Microsoft Fabric の Spark ワークロードについて、容量、並列性、セキュリティ、チューニングとコストを整理します。
+- [BRK363: Less hunting, more building: Database agents in a unified estate](sessions/brk363.md) 分散したデータベースの把握や管理を支援する Database Hub とデータベースエージェントの構想を紹介します。
+- [BRK364: Powering AI with Azure Databricks, Foundry, Fabric, and Copilot](sessions/brk364.md) Azure Databricks と Foundry、Fabric、Copilot の連携を通じたデータ・AI 基盤の構築方法を紹介します。
+- [BRK365: Build self-optimizing AI agents with Azure Cosmos DB and Fabric](sessions/brk365.md) Cosmos DB 上の複数エージェントを Fabric で観測し、品質、遅延、費用の分析から改善ループへつなげます。
+- [BRK367: Designing the data layer for AI apps and agents with Azure Cosmos DB](sessions/brk367.md) Cosmos DB を用い、エージェントの状態・記憶とベクトル検索やハイブリッド検索を組み合わせる設計を説明します。
+- [BRK369: Humans to agents: Mission-critical starts with Azure SQL Hyperscale](sessions/brk369.md) Azure SQL Hyperscale のスケール、可用性、ベクトル検索を活用し、重要業務向け AI アプリを構築する方法を紹介します。
+- [BRK370: Build integrated AI apps with Azure HorizonDB](sessions/brk370.md) Azure HorizonDB で運用データ、AI パイプライン、ハイブリッド検索、知識グラフを組み合わせる例を示します。
+- [BRK372: Where agents meet analytics: Build with SQL Database in Fabric](sessions/brk372.md) Fabric の SQL database、OneLake へのミラーリング、ベクトルと MCP を組み合わせ、エージェントと分析をつなげます。
+- [BRK373: Build AI-ready apps on Azure SQL with GitHub Copilot in VS Code](sessions/brk373.md) VS Code の SQL 拡張と GitHub Copilot を使い、Azure SQL のスキーマ、ベクトル検索、RAG、データ API を構築します。
+- [BRK374: Beyond the cache: How Sitecore builds to scale on Azure Managed Redis](sessions/brk374.md) Sitecore の事例から Azure Managed Redis をキャッシュや AKS 上のアプリに利用し、性能と拡張性を高める方法を紹介します。
+- [BRK375: Migrate and modernize MongoDB applications with Azure DocumentDB](sessions/brk375.md) MongoDB アプリを Azure DocumentDB へ移行する際の互換性評価、データ移行、動作検証と運用を説明します。
+- [BRK376: Agentic CRM: Accelerate revenue and pipeline with agentic sales](sessions/brk376.md) Dynamics 365 Sales と Copilot、エージェントを組み合わせ、営業記録や商談プロセスを支援する CRM の活用を紹介します。
+- [BRK377: The Agentic Shift: Reimagining Customer Service](sessions/brk377.md) Dynamics 365 Customer Service と AI エージェントで問い合わせの自己解決、担当者支援、業務自動化を進める方法を示します。
+- [BRK378: Host apps from anywhere with the new Copilot Managed Runtime](sessions/brk378.md) Copilot Managed Runtime を使い、さまざまな環境で作成したアプリを企業向けの管理・セキュリティ基盤へ取り込みます。
+- [BRK379: Build Customer-Facing Agents in Copilot Studio, Teams, and CCI](sessions/brk379.md) Copilot Studio で顧客対応エージェントを作り、音声・チャットなどで共通利用し、人の担当者へ文脈を引き継ぎます。
+- [BRK380: Agentify your customer interactions with Dynamics 365 Contact Center](sessions/brk380.md) Dynamics 365 Contact Center でルーティング、Copilot、顧客対応と運用分析を組み合わせる方法を紹介します。
+- [BRK381: Microsoft Contact Center Intelligence: modernize without rip and replace​](sessions/brk381.md) 既存のコンタクトセンターを活用しながら、Microsoft Contact Center Intelligence の音声・デジタルエージェントを導入します。
+- [BRK382: Deploy solutions at scale with Power Platform or Copilot Managed Runtime](sessions/brk382.md) Power Platform と Copilot Managed Runtime の環境、アプリのライフサイクル、セキュリティ、監視を企業規模で管理します。
+- [BRK383: What’s new in Dynamics 365 Business Central​](sessions/brk383.md) Dynamics 365 Business Central の Copilot、経費・買掛・受注エージェントと業務フローの更新を紹介します。
+- [BRK384: What’s new in Dynamics 365 Finance & Operations​](sessions/brk384.md) Dynamics 365 Finance & Operations の AI 活用について、ERP のデータ、業務、ポリシーとエージェントの構成を紹介します。
+- [BRK385: What’s new in Dynamics 365 Sales and Customer Service​](sessions/brk385.md) Dynamics 365 Sales と Customer Service における Copilot、Work IQ、エージェントの活用と顧客事例を紹介します。
+- [BRK386: What's new in Power Platform](sessions/brk386.md) Power Apps、Power Automate、Power Pages の開発体験と、AI を活用した構築・運用の更新を紹介します。
+- [BRK387: Leave legacy CRM & ERP behind: Modernize with Dynamics 365 Activate​](sessions/brk387.md) Dynamics 365 Activate を使って既存 CRM・ERP の調査、評価、マッピング、移行を支援する方法を説明します。
+- [BRK396: Raising the Bar for Windows Quality: Built with Your Feedback](sessions/brk396.md) Windows の性能、信頼性、ドライバー、更新方法を、ユーザーからのフィードバックに基づき改善する取り組みを紹介します。
+- [BRK397: Edge for Business: Browser security in the age of AI productivity](sessions/brk397.md) Edge for Business の管理、ポリシー、情報保護を通じ、ブラウザーでの AI 利用とセキュリティを両立させます。
+- [BRK398: From Prevention to Recovery: Building a More Resilient Windows Estate](sessions/brk398.md) ドライバーの品質向上、Windows の復旧、Windows 365 Reserve を通じて障害の予防と業務継続を図ります。
+- [BRK399: Intelligence on Windows: Unlocking the Full Value of Microsoft Copilot](sessions/brk399.md) Windows と Copilot を組み合わせ、AI の定着、生産性、データ主権への対応を進める考え方を紹介します。
+- [BRK400: Windows 365 – Your flexible, trusted workspace for the age of AI](sessions/brk400.md) Windows 365 の Cloud PC、開発者やエージェント向け環境、管理機能と顧客事例を紹介します。
+- [BRK401: Windows 365 Flex & Cloud PC Devices: Lower Costs, Greater Value](sessions/brk401.md) Windows 365 Flex と Cloud PC デバイスを、共有・断続利用などのシナリオに合わせて活用する方法を紹介します。
+- [BRK402: Modernize on-prem VDI with Azure Virtual Desktop and Windows 365](sessions/brk402.md) Azure Virtual Desktop と Windows 365 を用い、既存のオンプレミス VDI を段階的にモダナイズする選択肢を整理します。
+- [BRK403: Every developer and agent needs a computer: Building with Windows 365](sessions/brk403.md) 開発者向け Cloud PC と、コンピューター操作を行う AI エージェント向けの管理された環境を紹介します。
+- [BRK404: What’s New in Intune: Secure, Patch, and Scale](sessions/brk404.md) Intune の大規模運用、脆弱性対応、パッチ適用と AI エージェントの管理について新機能を紹介します。
+- [BRK405: What's new in Windows security: Start secure, protect what matters, prepare for the AI era](sessions/brk405.md) Windows の基盤、サインイン、暗号化、端末保護と AI 時代のセキュリティ対策を紹介します。
+- [BRK406: From AI Pilots to Practice: Put Intelligence to Work with Windows](sessions/brk406.md) Windows と Cloud PC 上での AI 利用について、エージェントの保護、端末とクラウドの連携、企業での展開を扱います。
+- [BRK407: What's new in Windows Management](sessions/brk407.md) Windows Autopatch の更新管理、状態の可視化、アプリ管理、端末からサーバーまでの管理を紹介します。
+- [BRK409: Modernize faster with AI-powered discovery, planning, and execution](sessions/brk409.md) Azure の移行支援を用いて資産を発見し、事業上の根拠、移行計画、設計と実行を結び付ける方法を説明します。
+- [BRK410: Accelerating Java, .NET, and database modernization with agents](sessions/brk410.md) GitHub Copilot とエージェントを使い、Java・.NET アプリの更新、依存関係の修正、コンテナー化とデータベース移行を進めます。
+- [BRK422: Run open-weight models, post-training, and agents on AKS](sessions/brk422.md) AKS でオープンウェイトモデル、追加学習、エージェントを動かすための GPU、ネットワーク、ストレージの考え方を整理します。
+- [BRK434: AI runs on data. Is your storage architecture ready?](sessions/brk434.md) AI の学習や推論を支える Azure Storage について、大規模データ、性能、セキュリティを含む設計を紹介します。
+- [BRK438: Building sovereign private cloud for mission-critical environments](sessions/brk438.md) Azure Local と Sovereign Private Cloud を用いて、主権要件や重要業務の継続性に対応する構成を説明します。
+- [BRK439: Sovereign cloud mythbusters: Separating fact from fiction](sessions/brk439.md) データ所在地、管理、運用などに関する疑問を取り上げ、ソブリンクラウドの考え方を整理します。
+- [BRK440: Cobalt 200: Delivering Azure's best performance and efficiency](sessions/brk440.md) Azure Cobalt 200 の設計、仮想マシンの性能と費用対効果、Azure のインフラ構成を紹介します。
+- [BRK441: Inside Azure Maia: Purpose-built for AI inference at scale](sessions/brk441.md) Azure Maia の AI 推論向け設計と、シリコンからモデル提供までのインフラを紹介します。
+- [BRK445: Architecting for end-to-end resiliency on Azure](sessions/brk445.md) Azure と利用者の責任分担を踏まえ、可用性の目標、設計、構成、テストを通じた回復性の確保を説明します。
+- [BRK446: Build portable applications with Adaptive Apps](sessions/brk446.md) データ所在地や接続断への備えを背景に、Azure の公開クラウドと別環境の間でアプリを移植できる設計を検討します。
+- [BRK450: No cloud required: Build AI apps with SQL Server on Azure Local](sessions/brk450.md) Azure Local 上の SQL Server とローカル AI を組み合わせ、データ主権や低遅延が必要な環境でアプリを構築します。
+- [BRK451: Accelerate your move to PostgreSQL with AI-assisted migration](sessions/brk451.md) AI 支援の評価や変換ツールを使い、Oracle から PostgreSQL への移行とデータ移行の手順を整理します。
+- [BRK452: AI-powered resiliency for modern workloads with Mark Russinovich](sessions/brk452.md) Azure の障害事例と顧客事例を基に、依存関係の把握、復旧、バックアップ、AI を活用した回復性の改善を扱います。
+- [BRK455: Reimagine telecom with agentic AI](sessions/brk455.md) 通信事業者の事例を通じ、ネットワーク運用、顧客対応、ソフトウェア開発におけるエージェントの活用を議論します。
+- [BRK460: Reimagining clinical workflows: A Brown University Health story](sessions/brk460.md) Brown University Health の事例から、Dragon Copilot とエージェントを臨床文書作成や病院の業務に組み込む方法を紹介します。
+- [BRK462: Putting AI to work for nurses with Dragon Copilot](sessions/brk462.md) 看護業務への Dragon Copilot 導入を例に、記録負担の軽減、信頼、利用定着と組織への展開を扱います。
+- [BRK464: Orchestrating media intelligence with AI](sessions/brk464.md) メディア企業でデータ、AI モデル、エージェントを制作・配信・運用につなぎ、ガバナンスと人の判断を組み込む方法を説明します。
+- [BRK465: Agentic media operations: Run at scale](sessions/brk465.md) Kantar と Microsoft が、広告の評価、改善案、画像・動画生成、再評価をエージェントで循環させる例を示します。
+- [BRK466: Securing edge AI and operational technology (OT) workloads](sessions/brk466.md) 工場などのエッジ AI と OT を対象に、分離されたネットワーク、データ保護、Zero Trust と復旧を検討します。
+- [BRK468: Geospatial intelligence for industrial resilience and sustainability](sessions/brk468.md) 地理空間データ、地球観測、OT データを組み合わせ、資産監視、環境管理、サプライチェーンの判断に生かします。
+- [BRK469: Adaptive Digital Thread: Turning PLM into an AI-Powered Eng Platform](sessions/brk469.md) 製品、ソフトウェア、サービス、運用データをデジタルスレッドでつなぎ、AI を活用した製品開発を紹介します。
+- [BRK470: Own your supply chain intelligence: From visibility to agentic action](sessions/brk470.md) Microsoft のサプライチェーンを例に、計画、物流、運用へ AI エージェントと人の確認を組み込む方法を紹介します。
+- [BRK475: Industrial intelligence in action: Physical AI for factories](sessions/brk475.md) 工場のデータと現場の知識をエッジ・クラウドの AI とつなぎ、Physical AI や Unilever の事例を紹介します。
+- [BRK538: The AI Accessibility Flywheel: Ask, Act, Automate](sessions/brk538.md) Copilot で質問、作業の実行、自動化をつなぎ、障害のある人を含む利用者のアクセシビリティを高める例を紹介します。
+- [BRK542: Inside Azure with Mark Russinovich](sessions/brk542.md) Azure の AI 基盤について、冷却、シリコン、ストレージ、ネットワーク、推論実行、機密コンピューティングを概観します。
+- [BRK546: From Market Signals to Trusted Intelligence: LSEG's AI Architecture](sessions/brk546.md) LSEG の金融データを基に、権限を考慮した検索、根拠の提示、AI の評価と業務連携を説明します。
+- [BRK547: AI-Powered Factories at Scale: Lessons from Rockwell Automation](sessions/brk547.md) Rockwell Automation の製造現場を例に、エッジからクラウドへのデータ連携、AI、デジタルツインの展開を紹介します。
+- [BRK548: Agent Orchestration at Scale: How Replit Builds and Deploys on Azure](sessions/brk548.md) Replit のエージェント実行、サンドボックス、ID、インフラと、企業向けアプリの安全な展開を紹介します。
+- [BRKSP599: Avoid common pitfalls in Azure landing zone deployment](sessions/brksp599.md) Azure ランディングゾーンの導入で生じるガバナンス、ID、ネットワーク、ポリシー、運用体制の課題を事例から整理します。
+- [BRKSP617: Scale agentic AI and turn data into autonomous action](sessions/brksp617.md) Azure OpenAI、Azure Databricks、データ基盤を組み合わせ、信頼性とガバナンスを備えたエージェントを展開する事例を紹介します。
+- [INV640: Expanding what’s possible: How AI is redesigning work](sessions/inv640.md) Copilot、Work IQ、Teams、Agent 365 を使い、個人の作業から組織全体の自動化と費用管理までをつなぐ構想を紹介します。
+- [INV641: Harnessing Your IQ with a continuously improving agent platform](sessions/inv641.md) Microsoft IQ で企業の知識やツールを接続し、モデル選択、セキュリティ、継続改善を備えたエージェント基盤を説明します。
+- [INV642: Observability at every layer for every role](sessions/inv642.md) Agent 365 と Perception を通じて、AI の利用状況、エージェントのリスク、事業価値、費用を可視化する方法を紹介します。
+- [INV643: AI infrastructure from cloud to edge](sessions/inv643.md) Azure と Windows をまたぐ AI インフラについて、推論、エージェントの隔離、機密コンピューティング、エッジ利用を紹介します。
+- [LAB661D: Digital Lab: Hill climbing for agents: From 60% to 90% with Open Source and Foundry](sessions/lab661d.md) 公開ページにはラボの目的説明のみがあり、実際の演習資料を確認できないため、内容分析としての要約はできません。
+- [LAB665D: Digital Lab: See how far one agent goes in Copilot Studio](sessions/lab665d.md) 公開ページにはラボの目的説明のみがあり、実際の演習資料を確認できないため、内容分析としての要約はできません。
+- [LAB668D: Digital Lab: Host apps from anywhere with the new Copilot Managed Runtime](sessions/lab668d.md) 公開ページにはラボの目的説明のみがあり、実際の演習資料を確認できないため、内容分析としての要約はできません。
+- [LAB671D: Digital Lab: Build a proactive intelligence agent using Work IQ](sessions/lab671d.md) 公開ページにはラボの目的説明のみがあり、実際の演習資料を確認できないため、内容分析としての要約はできません。
+- [LAB680D: Digital Lab: AI Agents Are Sending Signals. Make Access Respond.](sessions/lab680d.md) Conditional Access Policy Plans の整理、Entra と Defender での動的エージェントリスク確認、リスク別の段階的なアクセス制御を扱う実習です。
+- [LAB684D: Digital Lab: Ready for AI: A Zero Trust Workshop](sessions/lab684d.md) Zero Trust Workshop の AI・DevSecOps ガイダンスとサンプル Assessment の証拠を照合し、12〜24か月の改善ロードマップを組み立てる実習です。
+- [LAB692D: Digital Lab: Build a grounded AI agent with Azure HorizonDB](sessions/lab692d.md) Azure HorizonDB 上に法律文書の埋め込み・全文検索・引用グラフを作り、5種類の検索／分析ツールを持つエージェントにつなぐ実習です。
+- [LAB700D: Digital Lab: Accelerate Salesforce Migration with Dynamics 365 Activate](sessions/lab700d.md) Dynamics 365 Activate で Salesforce を検出・評価し、Account と Contact を Dataverse にマッピング、移行、件数・レコードで検証する一連の演習です。
+- [LAB711D: Digital Lab: Build an AI-Ready Secure Foundation with Zero Trust](sessions/lab711d.md) ID、端末、脅威、データに Zero Trust を適用し、AI 利用に向けたセキュリティ基盤を強化する演習です。
+- [LAB712D: Digital Lab: Strengthen endpoint protection from onboarding to offboarding](sessions/lab712d.md) Intune と Defender で端末を登録し、セキュリティポリシーの適用、状態確認、登録解除を体験します。
+- [LAB720D: Digital Lab: Hands-on: Modernize apps and databases and automate operations](sessions/lab720d.md) GitHub Copilot でアプリとデータベースをモダナイズし、Azure SRE Agent で障害調査と対策を行います。
+- [LAB721D: Digital Lab: Hands-on with the resiliency in Azure: Assess, recommend, recover](sessions/lab721d.md) Azure のワークロードについて RTO・RPO を確認し、可用性、災害復旧、データ復旧の改善を体験します。
+- [LAB722D: Digital Lab: Operate secure, multi-tenant agentic apps on Azure Container Apps](sessions/lab722d.md) Azure Container Apps 上で複数テナント向け AI ワークロードの隔離、スケーリング、セッションの保持を構成します。
+- [LAB724D: Digital Lab: Govern your estate with Azure Arc and Azure Resource Manager MCP](sessions/lab724d.md) Azure Resource Manager MCP と Azure Arc で資産、ポリシー、コスト、サーバー管理を確認する演習です。
+- [LAB741D: Digital Lab: From AI ambition to business advantage](sessions/lab741d.md) Copilot を使って重要な業務を再設計し、責任者、成功指標、検証条件を定めた90日間の実験を計画します。
+- [OD1930: Agent 365: Governing agent access to Microsoft 365 content](sessions/od1930.md) Agent 365 で Microsoft 365 のコンテンツに対するエージェントのアクセスを把握し、統制する方法を説明します。
+- [OD1931: Agent Rewind: When agents go off script](sessions/od1931.md) エージェントが意図しない動作をした場合の影響を想定し、Microsoft 365 のバックアップとサイバー回復を検討します。
+- [Microsoft Ignite 2026 Opening Keynote](sessions/opening-keynote.md) Satya Nadella の公式編集済み講演録を基に、人の目標、組織が自らの知識と学習を管理すること、信頼の三つを整理。Copilot、Microsoft IQ、モデル選択、Agent 365、Perception、Azure の発表を関連付けます。動画全編や字幕の網羅的な要約は今後の確認対象です。
+- [Microsoft Ignite 2026 セッションカタログ（Online・Technical Decision Maker）](sessions/session-catalog.md) 公式カタログの Online・Technical Decision Maker 条件に合うセッションの内容を日本語で整理し、録画、スライド、関連資料へのリンクを掲載します。
+- [Ignite 2026 セッションの主な論点](sessions/session-highlights.md) 公式セッションの説明と AI 要約を基に、開発、企業コンテキスト、ガバナンス、データ基盤、業務への展開を横断して整理します。

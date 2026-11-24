@@ -1,0 +1,31 @@
+---
+id: azure-cobalt-200
+title: Azure Cobalt 200
+summary: Microsoft 製 Arm プロセッサを搭載する Cobalt 200 VM が一般提供。モデルの周辺で動く CPU 処理を対象に、Cobalt 100 比で最大 50% の性能向上を公表しました。一定速度とブーストのモード、大規模メモリ向け・ストレージ重視の VM を追加し、年末までに 24 リージョンへ展開する計画です。
+content_type: announcement
+topic: azure
+tags: [azure, agents]
+last_verified: "2026-11-20"
+official_sources:
+  - https://news.microsoft.com/events/ignite/2026/book-of-news/
+  - https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/
+---
+
+## 概要
+
+Cobalt 200 VM はエージェントのツール実行、一時的な作業環境、データ処理など、モデル推論の周囲にある CPU ワークロードを支える基盤です。
+
+## 主な発表
+
+- Cobalt 100 比で最大 50% の CPU 性能向上を公表。一定速度で動かすモードとピーク性能向けのブーストモードを追加します。
+- Mpsv4 は大きなインメモリデータベース、Lpsv5 は検索などのストレージ負荷向けで、後者は最大 23 TB の内蔵ストレージを提供します。
+- 既存の展開に加え、2026 年末までに 24 Azure リージョンへ広げる計画です。
+
+## 提供状況・注意点
+
+GA。24 リージョンは年末までの展開計画です。利用時点のリージョン、VM サイズ、クォータ、Arm64 でのアプリ・コンテナー互換性を確認します。最大性能の数値は Microsoft の発表値で、実ワークロードの結果は個別に測定してください。
+
+## 参考リンク
+
+- [Book of News の Cobalt 200 発表](https://news.microsoft.com/events/ignite/2026/book-of-news/)
+- [基調講演録のインフラ説明](https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/)

@@ -1,0 +1,33 @@
+---
+id: copilot-sdk
+title: Microsoft Copilot SDK 2.0
+summary: Rust ベースのランタイムを採用して一般提供。共有プロセス内で複数セッションを扱い、状態、認証情報、ツール、ファイル、履歴を分離します。セッション単位の ID、ホスト側で定義するツールとポリシー、永続化と再開を組み合わせ、マルチテナントのエージェントアプリを構築します。
+content_type: announcement
+topic: github
+tags: [github, agents, governance]
+last_verified: "2026-11-20"
+official_sources:
+  - https://news.microsoft.com/events/ignite/2026/book-of-news/
+  - https://commandline.microsoft.com/microsoft-copilot-sdk-2-0-github/
+---
+
+## 概要
+
+Microsoft Copilot SDK 2.0 は、Copilot の harness（モデルとツールの実行を取りまとめる基盤）をアプリに組み込む SDK です。以前の GitHub Copilot SDK から名称を変更し、一般的な業務エージェントも対象にします。
+
+## 主な発表
+
+- 一つのプロセス内に複数セッションを配置し、セッションごとの状態、認証、ツール、ファイル、履歴を分けます。
+- `mode: "empty"` はホストのシェルやファイルシステム、既定ツールを最初から持たせず、アプリ側が許可する能力を追加する方式です。
+- セッションジャーナルと `sessionFs` により、プロセスをまたいだ会話の永続化と再開を実装できます。認証もセッション単位で扱います。
+
+## 提供状況・注意点
+
+SDK 2.0 は GA。Book of News は六つのプログラミング言語への対応を記載しています。
+
+公式解説は、コンパイルや信頼できないスクリプトを実行する用途にはコンテナーなどの強い境界が引き続き必要としています。共有ランタイムの導入時も、ホストが実装するツールの認可、テナント分離、再開時の所有者確認を設計してください。
+
+## 参考リンク
+
+- [SDK 2.0 の公式技術解説](https://commandline.microsoft.com/microsoft-copilot-sdk-2-0-github/)
+- [Book of News の GitHub 節](https://news.microsoft.com/events/ignite/2026/book-of-news/)

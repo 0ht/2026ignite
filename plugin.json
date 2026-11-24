@@ -1,0 +1,8 @@
+{
+  "name": "ignite-2026",
+  "version": "0.1.0",
+  "description": "Microsoft Ignite 2026 の公式発表と基調講演の日本語キュレーション",
+  "skills": [
+    "./skills/ignite-2026"
+  ]
+}

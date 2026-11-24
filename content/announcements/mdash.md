@@ -1,0 +1,31 @@
+---
+id: mdash
+title: Codename MDASH
+summary: AI エージェントによるコードセキュリティシステムを対象組織向け Preview で提供。攻撃対象の把握、コード検査、エージェント間での検証、重複排除と可能な範囲での再現を組み合わせます。大規模リポジトリの分割、進捗の可視化、結果の品質とモデル対応を改善します。
+content_type: announcement
+topic: security
+tags: [security, agents, github]
+last_verified: "2026-11-20"
+official_sources:
+  - https://news.microsoft.com/events/ignite/2026/book-of-news/
+---
+
+## 概要
+
+MDASH は検出数を増やすだけでなく、検証された指摘をセキュリティと開発チームへ渡すことを目標とする仕組みです。
+
+## 主な発表
+
+- 100 を超える専門エージェントを四段階のパイプラインで使用。攻撃対象の把握、検査、検証、重複排除・再現を進めます。
+- Repository sharding は大きなコードベースを論理単位に分け、処理するトークンを減らします。
+- スキャンの段階、経過時間、結果が利用できる時点を見やすくし、誤検出と低品質な指摘を減らす改善を加えます。
+
+## 提供状況・注意点
+
+参加条件を満たす組織向けの Preview。モデルの対応も段階的です。Book of News は MAI Cyber 1.1 Flash を含む対応拡張と、評価完了後の MAI-Cyber-2 利用予定を記載しています。
+
+別のモデル紹介節では MAI-Cyber-2-Flash を MDASH 内の Preview としています。各モデルのアクセス、スキャン対象、利用可能な機能はサービス側の条件を確認してください。
+
+## 参考リンク
+
+- [Book of News の Codename MDASH と New models 節](https://news.microsoft.com/events/ignite/2026/book-of-news/)

@@ -1,0 +1,15 @@
+[
+  { "slug": "agents", "name": "AI エージェント" },
+  { "slug": "copilot", "name": "Copilot" },
+  { "slug": "iq", "name": "Microsoft IQ" },
+  { "slug": "foundry", "name": "Microsoft Foundry" },
+  { "slug": "github", "name": "GitHub" },
+  { "slug": "azure", "name": "Azure" },
+  { "slug": "data", "name": "データ" },
+  { "slug": "fabric", "name": "Microsoft Fabric" },
+  { "slug": "security", "name": "セキュリティ" },
+  { "slug": "governance", "name": "ガバナンス" },
+  { "slug": "windows", "name": "Windows" },
+  { "slug": "keynote", "name": "基調講演" },
+  { "slug": "catalog", "name": "セッションカタログ" }
+]

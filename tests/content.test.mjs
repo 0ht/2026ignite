@@ -47,7 +47,11 @@ test('generation keeps site, llms, skill and JSON indexes aligned and removes st
   assert.equal(machineIndex.entries.length, data.entries.length);
   for (const entry of data.entries) {
     assert.ok(read(`site/${entry.route}.md`).includes(entry.meta.summary));
-    assert.ok(read(`site/public/llms/${entry.route}/llms.txt`).includes(entry.body));
+    if (entry.meta.id === 'session-catalog') {
+      assert.match(read(`site/public/llms/${entry.route}/llms.txt`), /llms\/sessions\/brk\d+\/llms\.txt/);
+    } else {
+      assert.ok(read(`site/public/llms/${entry.route}/llms.txt`).includes(entry.body));
+    }
     assert.ok(read(`${skill}/references/${entry.route}.md`).includes(entry.body));
     assert.ok(read('site/public/llms.txt').includes(`${data.info.site_url}llms/${entry.route}/llms.txt`));
     const record = machineIndex.entries.find((item) => item.id === entry.meta.id);

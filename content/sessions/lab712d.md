@@ -1,0 +1,40 @@
+---
+id: lab712d
+title: "LAB712D: Digital Lab: Strengthen endpoint protection from onboarding to offboarding"
+summary: "Intune と Defender で端末を登録し、セキュリティポリシーの適用、状態確認、登録解除を体験します。"
+content_type: session
+topic: sessions
+tags: [catalog]
+last_verified: "2026-11-24"
+official_sources:
+  - "https://ignite.microsoft.com/en-US/sessions/1792444651677001e4a7-AAAAAAAAAAAAAAAAAAAA?source=sessions"
+---
+
+<!-- Manually curated session; catalog refresh keeps this article. -->
+
+## 概要
+
+Intune と Defender で端末を登録し、セキュリティポリシーの適用、状態確認、登録解除を体験します。
+
+## セッション情報
+
+| 項目 | 内容 |
+| --- | --- |
+| セッションコード | LAB712D |
+| 登壇者 | 未掲載 |
+| トピック | Windows |
+| 配信形式 | Online |
+
+## 開催枠・動画・資料
+
+| 開始日時 | 公式ページ | 動画 | 資料 |
+| --- | --- | --- | --- |
+| 日時未掲載 | [公式詳細](https://ignite.microsoft.com/en-US/sessions/1792444651677001e4a7-AAAAAAAAAAAAAAAAAAAA?source=sessions) | 録画なし | — |
+
+## 確認範囲・注意点
+
+2026-11-24時点の公式カタログでは「Will not be recorded」と表示され、字幕、スライド、関連資料も掲載されていません。上の概要は公式セッション説明の要約であり、実際の演習内容を確認できる資料はありません。
+
+## 参考リンク
+
+- [公式セッション詳細](https://ignite.microsoft.com/en-US/sessions/1792444651677001e4a7-AAAAAAAAAAAAAAAAAAAA?source=sessions)

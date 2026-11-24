@@ -9,7 +9,7 @@ Microsoft Ignite 2026 は 2026-11-17 から 2026-11-20 に San Francisco・オ�
 
 公式 Book of News の主要発表と、公式の編集済み講演録で確認したオープニング基調講演、Online・Technical Decision Maker 条件の公式セッションカタログ一覧を収録。
 
-コンテンツの最新確認日 2026-11-23。各記事の確認日と発表時点の提供状況を確認してください。導入時は公式情報で対象地域、ライセンス、参加条件を確認してください。
+コンテンツの最新確認日 2026-11-24。各記事の確認日と発表時点の提供状況を確認してください。導入時は公式情報で対象地域、ライセンス、参加条件を確認してください。
 
 ## 調査手順
 
@@ -21,7 +21,7 @@ Microsoft Ignite 2026 は 2026-11-17 から 2026-11-20 に San Francisco・オ�
 ## コンテンツインデックス
 
 - [アナウンス一覧](references/announcements.md) 38 件
-- [セッション一覧](references/sessions.md) 2 件
+- [セッション一覧](references/sessions.md) 171 件
 - [参考資料一覧](references/resources.md) 1 件
 
 ## 公式情報
